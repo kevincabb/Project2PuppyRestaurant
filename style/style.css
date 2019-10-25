@@ -1,0 +1,35 @@
+#hero-image {
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: url("../images/bgtexture.jpg");
+    /* Set a specific height */
+    height: 100%;
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+ }
+ #hero-image2 {
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: url("../images/homeHero.jpg");
+    /* Set a specific height */
+    height: 600px;
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+ }
+ .bgc{
+     background-color: #FFFFFF;
+ }
+.muzzles{
+    color: #5F002B;
+    font-size: 50px;
+    font-family: Fugaz One;
+}
+.Lorem{
+    color: #5F002B;
+    font-size: 20px;
+    font-family: Montauk;
+}
