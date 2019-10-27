@@ -20,7 +20,7 @@
     background-size: cover;
     position: relative;
  }
- .bgc{
+.bgc{
      background-color: #FFFFFF;
  }
 .muzzles{
@@ -32,4 +32,9 @@
     color: #5F002B;
     font-size: 20px;
     font-family: Montauk;
+}
+
+.minilogo{
+    width: 100px;
+    height: 31.4px;;
 }
