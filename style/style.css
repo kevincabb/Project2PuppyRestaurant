@@ -9,7 +9,7 @@
     background-size: cover;
     position: relative;
  }
- #hero-image2 {
+#hero-image2 {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
     background-image: url("../images/homeHero.jpg");
     width: 100%;
@@ -21,6 +21,7 @@
     background-size: cover;
     position: relative;
  }
+
 .bgc{
      background-color: #FFFFFF;
  }
@@ -47,4 +48,9 @@
 .imgResize-1{
     width: 100%;
     height: 100%;
+}
+
+.imgResize-2{
+    width: 100%;
+    height: 250px;
 }
