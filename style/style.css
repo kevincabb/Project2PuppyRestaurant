@@ -25,11 +25,73 @@
  }
 .muzzles{
     color: #5F002B;
-    font-size: 50px;
-    font-family: Fugaz One;
+    font-size: 40px;
+    font-family: 'Fugaz One';
 }
 .Lorem{
     color: #5F002B;
     font-size: 20px;
     font-family: Montauk;
 }
+.right{
+    display:flex;
+    justify-content: flex-end;
+    flex-direction: column;
+
+}
+.right1{
+    display:flex;
+    justify-content: flex-end;
+}
+.vertical{
+    display: flex;
+    flex-direction: row;
+}
+.navcolor{
+    color:#5F002B;
+    font-size: 20px;
+}
+.phototxt{
+    font-size: 50px;
+    color:#5F002B;
+}
+.center{
+    display:flex;
+    justify-content: center;
+}
+.space{
+    display: flex;
+    justify-content: space-between;
+}
+@font-face{
+    font-family: Montauk;
+    src: url(../fonts/Montauk-Regular.otf);
+    font-style: normal;
+  }
+  .montauk{
+    font-family:Montauk;
+  }
+
+  .whiteBorder{
+      border: solid white 8px;
+  }
+  .txtfont{
+    font-family: 'Fugaz One', cursive;
+    }
+    .titleF{
+        font-family: 'Fugaz One';
+        color:#5F002B
+    }
+    .minilogo{
+        width: 100px;
+        height: 31.4px;;
+    }
+    
+    .text-align-c{
+        text-align: center;
+    }
+    
+    .imgResize-1{
+        width: 100%;
+        height: 100%;
+    }
