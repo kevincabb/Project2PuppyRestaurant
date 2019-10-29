@@ -95,3 +95,23 @@
         width: 100%;
         height: 100%;
     }
+    .imgResize-2{
+        width: 100%;
+        height: 250px;
+    }
+    .team{
+        font-size:30px;
+    }
+    .title2{
+        font-size: 44px;
+    }
+    .title3{
+        color:#5F002B;
+        font-family:Montauk;
+        font-size: 20px;
+    }
+    .money{
+        color:#5F002B;
+        
+        font-family:Montauk;
+    }
