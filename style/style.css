@@ -12,6 +12,7 @@
  #hero-image2 {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
     background-image: url("../images/homeHero.jpg");
+    width: 100%;
     /* Set a specific height */
     height: 600px;
     /* Position and center the image to scale nicely on all screens */
@@ -20,7 +21,7 @@
     background-size: cover;
     position: relative;
  }
- .bgc{
+.bgc{
      background-color: #FFFFFF;
  }
 .muzzles{
@@ -115,3 +116,17 @@
         
         font-family:Montauk;
     }
+
+.minilogo{
+    width: 100px;
+    height: 31.4px;;
+}
+
+.text-align-c{
+    text-align: center;
+}
+
+.imgResize-1{
+    width: 100%;
+    height: 100%;
+}
